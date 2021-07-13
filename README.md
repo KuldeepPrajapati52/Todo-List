@@ -18,24 +18,24 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Programming Language:
-1-HTML
-2-CSS
-3-JavaScript
-4-React
+1-HTML\
+2-CSS\
+3-JavaScript\
+4-React\
 5-JSX
 
 ## Procedure
-1)To add a task to the to do list:
-We just have to enter the title and discription of the task what we want later to do.
-2)Similarly, Remove a task from the to-do list:
-After completing(Or Don't want to do it) the task we just have to click on Delete to delete the task title and discription.
+1)To add a task to the to do list:\
+We just have to enter the title and discription of the task what we want later to do.\
+2)Similarly, Remove a task from the to-do list:\
+After completing(Or Don't want to do it) the task we just have to click on Delete to delete the task title and discription.\
 
 ## Data Storage
-We store the detail of task in "Local Storage".
+In this project, the detail of task is store in "Local Storage".
 
 ## Developed By
-Kuldeep Jitendra Kumar Prajapati
+### `Kuldeep Jitendra Kumar Prajapati`
 
-##deployed Link
+## Deployed Link
 You can have look : https://todoslistbykjp.netlify.app/
 
