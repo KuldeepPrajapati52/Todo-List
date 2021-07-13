@@ -2,7 +2,7 @@
 
 It show the list of task you have save to do it later.
 
-#Installation
+##Installation
 In the project directory, you can run:
 
 ### `npm start`
