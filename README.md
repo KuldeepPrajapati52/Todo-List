@@ -6,7 +6,7 @@ It show the list of task you have save to do it later.
 This is my first project on React.
 
 
-##Installation
+## Installation
 In the project directory, you can run:
 
 ### `npm start`
