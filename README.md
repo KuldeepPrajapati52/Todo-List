@@ -2,6 +2,10 @@
 
 It show the list of task you have save to do it later.
 
+## About
+This is my first project on React.
+
+
 ##Installation
 In the project directory, you can run:
 
@@ -12,6 +16,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+## Programming Language:
+1-HTML
+2-CSS
+3-JavaScript
+4-React
+5-JSX
 
 ## Procedure
 1)To add a task to the to do list:
